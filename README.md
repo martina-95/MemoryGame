@@ -35,6 +35,7 @@ How to Play – упатство и цел на играта.
 
 
 <p align="center">
+  
 ![image](https://github.com/user-attachments/assets/9e3e531e-b2f8-44c5-bbad-d86dddf2c907)
   
   <b>Екран при пораз</b>
