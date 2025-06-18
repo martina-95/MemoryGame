@@ -31,6 +31,9 @@ How to Play – упатство и цел на играта.
 
 ![image](https://github.com/user-attachments/assets/26c78569-fdf0-427f-acf1-1f191607718e)
 
+![image](https://github.com/user-attachments/assets/9e3e531e-b2f8-44c5-bbad-d86dddf2c907)
+
+
 Екран при пораз
 
 # Техничка имплементација
